@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanidhyajadaun" alt="sanidhyajadaun" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.instagram.com/theunboundedtales/?utm_medium=copy_link](https://www.instagram.com/theunboundedtales/?utm_medium=copy_link)
-
 - 📫 How to reach me **jadaunsanidhya47@gmail.com**
 
 - ⚡ Fun fact **Creative Explorer**
