@@ -1,7 +1,7 @@
 <p align="center"><img alt="Coding" width="500" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"></p>
 
 <h1 align="center">Hi 👋, I'm Sanidhya Jadaun</h1>
-<h3 align="center">I am a Data Science enthusiast and a Photographer. A 3rd-year student pursuing Bachelors degree in Computer Science studies with AIML as the specialization, from UPES Dehradun.</h3>
+<h3 align="center">A Data Science enthusiast and a Photographer. Currently, I am pursuing Bachelors degree in Computer Science with AIML as the specialization, from UPES Dehradun.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanidhyajadaun&label=Profile%20views&color=0e75b6&style=flat" alt="sanidhyajadaun" /> </p>
 
