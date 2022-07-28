@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyajadaun&" alt="sanidhyajadaun" /></p>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanidhyajadaun" alt="sanidhyajadaun" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanidhyajadaun&theme=react-dark" alt="sanidhyajadaun" /></p>
