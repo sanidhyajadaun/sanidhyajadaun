@@ -15,8 +15,8 @@ My major specialisation is in Artificial Intelligence & Machine Learning.</h3>
 </p>
 
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=sanidhyajadaun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000" alt="sanidhyajadaun" height="180"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=sanidhyajadaun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000" alt="sanidhyajadaun" height="160"/></p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyajadaun&theme=highcontrast" alt="sanidhyajadaun" height="180" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyajadaun&theme=highcontrast" alt="sanidhyajadaun" height="160" /></p>
 
 <p><img align="left" src="https://github-readme-activity-graph.cyclic.app/graph?username=sanidhyajadaun&theme=merko" alt="sanidhyajadaun" /></p>
